@@ -8,3 +8,4 @@
 
 ### 官方频道：https://t.me/a645645654
 ### 官方客服：@kexuejia3
+### 测试机器人 @gebidai_bot
